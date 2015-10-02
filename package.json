@@ -1,0 +1,33 @@
+{
+  "name": "gif2webm",
+  "version": "0.0.1",
+  "description": "Converts animated gif/png images into webm videos.",
+  "author": {
+    "name": "Raphael Beer",
+    "email": "rbeerdev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbeer/gif2webm"
+  },
+  "licenses": [
+    {
+      "type": "GPL2",
+      "url": "https://raw.github.com/rbeer/gif2webm/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/rbeer/gif2webm/issues"
+  },
+  "homepage": "https://github.com/rbeer/gif2webm",
+  "keywords": [
+    "webm",
+    "gif",
+    "png",
+    "animated",
+    "convert"
+  ],
+  "devDependencies": {
+    "winston": "^1.0.2"
+  }
+}

@@ -2,3 +2,4 @@
 *.webm
 *.sublime-*
 .*~
+node_modules/
